@@ -31,8 +31,6 @@
 ; TODO: this script does not work well with numbers > 9, because of the circle
 ; size.  It should be corrected in a future version.
 
-; Convert integer value to character
-;(char-list "a"  "b" "c" "d" "e" "f" "g", "h", "i")
 ; Main function.  Asks for two parameters:  the circle radius and the image to
 ; work with.
 (define (mark-number-circles radius image)
